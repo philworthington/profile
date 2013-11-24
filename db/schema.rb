@@ -21,8 +21,8 @@ ActiveRecord::Schema.define(:version => 20110929172314) do
     t.string   "url"
     t.string   "avatar_image_name"
     t.text     "bio"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",        :null => false
+    t.datetime "updated_at",        :null => false
   end
 
 end
