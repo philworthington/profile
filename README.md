@@ -28,3 +28,8 @@ A sample application to show how user profiles can be created and updated in the
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+
+## License
+
+MIT: http://philworthington.mit-license.org
+
